@@ -4,6 +4,7 @@
 
 A train schedule application has been created that incorporates Firebase to host arrival and departure data. The app use Moment.js. This website will provide information on trains arraival departure. 
 
+### View App Pictures
 
 ![image](https://user-images.githubusercontent.com/50332749/67601451-68395200-f742-11e9-91eb-3dcf8ee8a7ab.png)
 
